@@ -20,4 +20,4 @@ Antes de executar o projeto, verifique se você atende aos seguintes pré-requis
 
 3. Abra o arquivo 'appsettings.json' no projeto e modifique a string de conexão para apontar para o seu servidor SQL Server.
 
-4. Abra o Console do Gerenciador de Pacotes no Visual Studio e execute o seguinte comando para aplicar as migrações do Entity Framework e criar o banco de dados: update-database
+4. Abra o Console do Gerenciador de Pacotes no Visual Studio e execute o seguinte comando para aplicar as migrações do Entity Framework e criar o banco de dados.
